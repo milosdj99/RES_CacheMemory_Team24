@@ -1,0 +1,79 @@
+=======================================================
+
+	Cache Memory Simulatior - Documentation
+	
+=======================================================
+
+Requirements:
+-------------
+>> create a system that simulates performance and communication of cache memory with data persistence
+>> system consists of 4 components:
+	1. Writer        
+	2. Dumping Buffer
+	3. Historical    
+	4. Reader	      
+>> all activities in system should be logged
+
+>> How does the system work?
+	> Writer sends data to DumpingBuffer every 2 seconds
+	> Data can be either randomly generated (WriteToDumpingBuffer) or manually written (ManualWriteToDummpingBuffer)
+	> In DumpingBuffer data is stored in collection CollectionDescription
+	> It cointains DumpingPropertyCollection, DataSet and unique ID
+	> DataSet is determined based on Codes
+		DataSet = 1 – CODE_ANALOG, CODE_DIGITAL
+		DataSet = 2 – CODE_CUSTOM, CODE_LIMITSET
+		DataSet = 3 – CODE_SINGLENODE, CODE_MULTIPLENODE
+		DataSet = 4 – CODE_CONSUMER, CODE_SOURCE
+		DataSet = 5 – CODE_MOTION, CODE_SENSOR 
+	> If new data has the same Code but different value, old value will be updated
+	> When 2 different values are accumulated within the same DataSet, data is forwarded to DeltaCD and CD is freed
+	> After Writer sends 10 data packages, DeltaCD is forwarded to Historical(if it has at least 1 component, if not-
+	  it waits for another 10 packages to be sent)
+	> When Historical recives data, it writes it in it's structures and validates it
+	> It checks if data meets conditions to be written in database
+
+Development:
+------------
+>> Project will be written in C#
+
+>> Agile framework is used in development
+
+>> The whole process is divided into 4 sprints:
+	> S1 (10.05-16.05) -> documentation,diagrams and base project
+	> S2 (17.05-23.05) 
+	> S3 (24.05-30.05)
+	> S4 (31.05-06.06)
+    *details of sprints 2-4 will be discussed in the following scrum meetings
+
+>> Functionalities to implement:
+	> Enable Writer to generate and send data and allow user to manually create data
+	> Enable DumpingBuffer to recive and store data according to project requirements
+	> Enable DumpingBuffer to send data to Historical 
+	> Enable Historical to recive, store and verify data 
+	> Enable Historical to check if data meets conditions to be stored in database
+	> Enable Historical to write data in database
+	> Enable Reader to request data from database through Historical
+	> Enable logger to log activities
+
+>> Solution consists of following components:
+	> Writer -> writing data into the Dumping buffer
+	> DumpingBuffer -> temporary data container; forwards data to Historical
+	> Historical -> writing into the database
+	> Reader -> reading data from database
+	> Logger -> logging activities
+>> Database will be used for storing information 
+
+>> Component diagram :
+	https://github.com/milosdj99/RES_CacheMemory_Team24/blob/main/Component_Diagram.EAP
+
+>> Activity diagrams:
+	> DumpingBuffer diagram
+		https://github.com/milosdj99/RES_CacheMemory_Team24/blob/main/Rad_DumperBuffera_Activity.EAP
+	> Historical diagram
+		https://github.com/milosdj99/RES_CacheMemory_Team24/blob/main/historical_activity.drawio
+
+
+
+
+
+
