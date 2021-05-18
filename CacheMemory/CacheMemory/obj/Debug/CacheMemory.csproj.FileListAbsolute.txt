@@ -1,0 +1,7 @@
+C:\Users\Knol\Desktop\PROJEKAT\RES_CacheMemory_Team24\CacheMemory\CacheMemory\bin\Debug\CacheMemory.exe.config
+C:\Users\Knol\Desktop\PROJEKAT\RES_CacheMemory_Team24\CacheMemory\CacheMemory\bin\Debug\CacheMemory.exe
+C:\Users\Knol\Desktop\PROJEKAT\RES_CacheMemory_Team24\CacheMemory\CacheMemory\bin\Debug\CacheMemory.pdb
+C:\Users\Knol\Desktop\PROJEKAT\RES_CacheMemory_Team24\CacheMemory\CacheMemory\obj\Debug\CacheMemory.csprojAssemblyReference.cache
+C:\Users\Knol\Desktop\PROJEKAT\RES_CacheMemory_Team24\CacheMemory\CacheMemory\obj\Debug\CacheMemory.csproj.CoreCompileInputs.cache
+C:\Users\Knol\Desktop\PROJEKAT\RES_CacheMemory_Team24\CacheMemory\CacheMemory\obj\Debug\CacheMemory.exe
+C:\Users\Knol\Desktop\PROJEKAT\RES_CacheMemory_Team24\CacheMemory\CacheMemory\obj\Debug\CacheMemory.pdb
