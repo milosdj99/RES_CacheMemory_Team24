@@ -8,5 +8,6 @@ namespace CacheMemory.Logger
 {
     class Logger
     {
+        
     }
 }

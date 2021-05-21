@@ -8,5 +8,6 @@ namespace CacheMemory.Reader
 {
     class Reader
     {
+        
     }
 }

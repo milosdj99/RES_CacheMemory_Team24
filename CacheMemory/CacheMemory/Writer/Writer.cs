@@ -8,5 +8,6 @@ namespace CacheMemory.Writer
 {
     class Writer
     {
+
     }
 }

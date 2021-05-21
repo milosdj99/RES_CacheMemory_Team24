@@ -43,12 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DumpingBuffer\CollectionDescription.cs" />
     <Compile Include="DumpingBuffer\DumpingBuffer.cs" />
+    <Compile Include="Historical\Description.cs" />
     <Compile Include="Historical\Historical.cs" />
+    <Compile Include="Historical\HistoricalProperty.cs" />
+    <Compile Include="Historical\HistoricalValue.cs" />
     <Compile Include="Logger\Logger.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reader\Reader.cs" />
+    <Compile Include="Writer\Data.cs" />
+    <Compile Include="Writer\Value.cs" />
     <Compile Include="Writer\Writer.cs" />
   </ItemGroup>
   <ItemGroup>

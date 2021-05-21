@@ -8,5 +8,6 @@ namespace CacheMemory.DumpingBuffer
 {
     class DumpingBuffer
     {
+       
     }
 }

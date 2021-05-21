@@ -8,5 +8,6 @@ namespace CacheMemory.Historical
 {
     class Historical
     {
+        
     }
 }
