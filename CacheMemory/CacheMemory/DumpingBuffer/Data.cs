@@ -8,10 +8,11 @@ namespace CacheMemory.DumpingBuffer
 {
     class Data
     {
-
+        
         public string Code { get; set; }
         public Value Value { get; set; }
 
+        public Data() { }
         public Data(string code, Value value)
         {
             Code = code;

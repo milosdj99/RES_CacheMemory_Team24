@@ -8,7 +8,7 @@ namespace CacheMemory.DumpingBuffer
 {
     class Value
     {
-
+       
         public DateTime TimeStamp { get; set; }
         public int IdGeografskogPodrucja { get; set; }
         public int Potrosnja { get; set; }

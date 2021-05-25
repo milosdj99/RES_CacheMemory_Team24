@@ -1,4 +1,4 @@
-﻿using CacheMemory.Models;
+﻿using CacheMemory.DumpingBuffer;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,19 +9,42 @@ namespace CacheMemory.DumpingBuffer
 {
     class CollectionDescription
     {
-        
-
         public int Id { get; set; }
 
         public int DataSet { get; set; }
 
         public List<Data> DumpingPropertyCollection { get; set; }
 
-        public CollectionDescription(int id, int dataSet, List<Data> dumpingPropertyCollection)
+        public CollectionDescription(int id, Data data)
         {
-            Id = id;
-            DataSet = dataSet;
-            DumpingPropertyCollection = dumpingPropertyCollection;
+            Id = id; //koristice se rbr slanja da bi bio unikatan
+            string code = data.Code;
+
+            if (code == "CODE_ANALOG" || code == "CODE_DIGITAL")
+            {
+                DataSet = 1;
+            }
+            else if (code == "CODE_CUSTOM" || code == "CODE_LIMITSET")
+            {
+                DataSet = 2;
+            }
+            else if (code == "CODE_SINGLENODE" || code == "CODE_MULTIPLENODE")
+            {
+                DataSet = 3;
+            }
+            else if (code == "CODE_CONSUMER" || code == "CODE_SOURCE")
+            {
+                DataSet = 4;
+            }
+            else
+            {
+                DataSet = 5;
+            }
+
+          
+            DumpingPropertyCollection.Add(data);
         }
+
+
     }
 }
