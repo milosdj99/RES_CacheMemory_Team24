@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CacheMemory.Models
+namespace CacheMemory.DumpingBuffer
 {
     class Data
     {
-        
-        string Code { get; set; }
-        Value Value { get; set; }
+
+        public string Code { get; set; }
+        public Value Value { get; set; }
 
         public Data(string code, Value value)
         {

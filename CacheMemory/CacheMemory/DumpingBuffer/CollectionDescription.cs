@@ -11,11 +11,11 @@ namespace CacheMemory.DumpingBuffer
     {
         
 
-        int Id { get; set; }
+        public int Id { get; set; }
 
-        int DataSet { get; set; }
+        public int DataSet { get; set; }
 
-        List<Data> DumpingPropertyCollection { get; set; }
+        public List<Data> DumpingPropertyCollection { get; set; }
 
         public CollectionDescription(int id, int dataSet, List<Data> dumpingPropertyCollection)
         {

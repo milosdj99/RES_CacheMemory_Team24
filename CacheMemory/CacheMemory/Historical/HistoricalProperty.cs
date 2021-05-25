@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CacheMemory.Models
+namespace CacheMemory.Historical
 {
     class HistoricalProperty
     {
-        string Code { get; set; }
-        HistoricalValue Value { get; set; }
+        public string Code { get; set; }
+        public HistoricalValue Value { get; set; }
 
         public HistoricalProperty(string code, HistoricalValue value)
         {

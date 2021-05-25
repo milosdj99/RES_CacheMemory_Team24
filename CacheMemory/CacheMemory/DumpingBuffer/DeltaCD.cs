@@ -7,15 +7,15 @@ using System.Threading.Tasks;
 namespace CacheMemory.DumpingBuffer
 {
     class DeltaCD
-    {       
+    {
 
-        int TransactionId { get; set; }
+        public int TransactionId { get; set; }
 
-        CollectionDescription Add { get; set; }
+        public CollectionDescription Add { get; set; }
 
-        CollectionDescription Update { get; set; }
+        public CollectionDescription Update { get; set; }
 
-        CollectionDescription Remove { get; set; }
+        public CollectionDescription Remove { get; set; }
 
         public DeltaCD(int transactionId, CollectionDescription add, CollectionDescription update, CollectionDescription remove)
         {
