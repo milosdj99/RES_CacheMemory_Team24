@@ -11,13 +11,15 @@ namespace CacheMemory.DumpingBuffer
 
         public int TransactionId { get; set; }
 
-        public CollectionDescription Add { get; set; }
+        public List <CollectionDescription> Add { get; set; }
 
-        public CollectionDescription Update { get; set; }
+        public List <CollectionDescription> Update { get; set; }
 
-        public CollectionDescription Remove { get; set; }
+        public List<CollectionDescription> Remove { get; set; }
 
-        public DeltaCD(int transactionId, CollectionDescription add, CollectionDescription update, CollectionDescription remove)
+        public DeltaCD() { }
+
+        public DeltaCD(int transactionId, List<CollectionDescription> add, List<CollectionDescription> update, List<CollectionDescription> remove)
         {
             TransactionId = transactionId;
             Add = add;

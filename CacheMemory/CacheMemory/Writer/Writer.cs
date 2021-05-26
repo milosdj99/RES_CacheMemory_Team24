@@ -1,4 +1,5 @@
 ﻿using CacheMemory.DumpingBuffer;
+using CacheMemory.Logger;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,7 +7,6 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using CacheMemory.Historical;
-using CacheMemory.DumpingBuffer;
 
 namespace CacheMemory.Writer
 {
@@ -38,7 +38,7 @@ namespace CacheMemory.Writer
             return r.Next(1, 11);
         }
 
-        public  Data WriteToDumpingBuffer(int brSlanja)
+        public  Data WriteToDumpingBuffer(int brSlanja, Log log)
         {
                 brSlanja++;
 
@@ -50,11 +50,13 @@ namespace CacheMemory.Writer
                 Value v = new Value(ts, geoID, p);
                 Data d = new Data(code, v);
 
+                log.LogMsg("Poslati podaci DumpingBufferu. BrSlanja: "+ brSlanja);
+
             return d;
               
         }
         
-        public  void ManualWriteToDumpingBuffer()
+        public  Data ManualWriteToDumpingBuffer(Log log)
         {
             DateTime ts ;
             int p ;
@@ -75,6 +77,11 @@ namespace CacheMemory.Writer
 
             Value v = new Value(ts, geoID, p);
             Data d = new Data(code, v);
+
+            log.LogMsg("Rucno uneti podaci za DumpingBuffer");
+
+            return d;
+      
         }
     }
 }
