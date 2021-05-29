@@ -11,7 +11,9 @@ namespace CacheMemory.DumpingBuffer
     {
         public List<CollectionDescription> listCD { get; set; }
 
-        public DumpingBuff() { }
+        public DumpingBuff() {
+            listCD = new List<CollectionDescription>();
+        }
         public DumpingBuff(CollectionDescription cd)
         {
             listCD.Add(cd);
@@ -78,7 +80,12 @@ namespace CacheMemory.DumpingBuffer
 
         public DeltaCD PakujDCD(int brtr, List<CollectionDescription> listCD, Log log)
         {
-             DeltaCD dcd = new DeltaCD();
+            DeltaCD dcd = new DeltaCD();
+
+            dcd.Add = new List<CollectionDescription>();
+            dcd.Update = new List<CollectionDescription>();
+            dcd.Remove = new List<CollectionDescription>();
+
                 dcd.TransactionId = brtr;
 
                 foreach (CollectionDescription cd in listCD)

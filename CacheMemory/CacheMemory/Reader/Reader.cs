@@ -9,9 +9,9 @@ namespace CacheMemory.Reader
 {
     class Reader
     {
-        public Historical.Historical Historical { get; set; }
+        public Historical.Historicall Historical { get; set; }
 
-        public Reader(Historical.Historical historical)
+        public Reader(Historical.Historicall historical)
         {
             Historical = historical;
         }

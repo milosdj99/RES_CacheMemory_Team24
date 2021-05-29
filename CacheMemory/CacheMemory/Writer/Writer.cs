@@ -63,7 +63,7 @@ namespace CacheMemory.Writer
             int geoID ;
             string code ;
 
-            Console.WriteLine("Unesite sledece podetke: ");
+            Console.WriteLine("Unesite sledece podatke: ");
             Console.WriteLine("Unesite potrosnju: ");
             p = int.Parse(Console.ReadLine());
             Console.WriteLine("Unesite ID geografskog podrucja: ");
@@ -72,8 +72,21 @@ namespace CacheMemory.Writer
             Console.WriteLine("CODE_ANALOG, CODE_DIGITAL, CODE_LIMITSET, CODE_CUSTOM, CODE_SINGLENODE,");
             Console.WriteLine("CODE_MULTIPLENODE, CODE_CONSUMER, CODE_SOURCE, CODE_MOTION, CODE_SENSOR");
             code = Console.ReadLine();
+            //Console.WriteLine("Unesite datum i vreme (npr. 10/22/2017 02:30:52)");
+            //ts = DateTime.Parse(Console.ReadLine());
+
+            //
             Console.WriteLine("Unesite datum i vreme (npr. 10/22/2017 02:30:52)");
-            ts = DateTime.Parse(Console.ReadLine());
+            
+            Console.WriteLine("Dan:");
+            int dan = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("Mesec:");
+            int mesec = Int32.Parse(Console.ReadLine());
+            Console.WriteLine("Godina:");
+            int godina = Int32.Parse(Console.ReadLine());
+
+            ts = new DateTime(godina, mesec, dan);
+            //
 
             Value v = new Value(ts, geoID, p);
             Data d = new Data(code, v);

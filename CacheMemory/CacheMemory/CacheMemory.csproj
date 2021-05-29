@@ -63,7 +63,7 @@
     <Compile Include="DumpingBuffer\DeltaCD.cs" />
     <Compile Include="DumpingBuffer\DumpingBuffer.cs" />
     <Compile Include="Historical\Description.cs" />
-    <Compile Include="Historical\Historical.cs" />
+    <Compile Include="Historical\Historicall.cs" />
     <Compile Include="Historical\HistoricalProperty.cs" />
     <Compile Include="Historical\HistoricalValue.cs" />
     <Compile Include="Logger\Logger.cs" />
@@ -81,10 +81,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Database1.mdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Database1_log.ldf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <DependentUpon>Database1.mdf</DependentUpon>
     </Content>
   </ItemGroup>

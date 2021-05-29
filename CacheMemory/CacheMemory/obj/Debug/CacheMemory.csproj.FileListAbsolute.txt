@@ -5,3 +5,12 @@ C:\Users\Knol\Desktop\PROJEKAT\RES_CacheMemory_Team24\CacheMemory\CacheMemory\ob
 C:\Users\Knol\Desktop\PROJEKAT\RES_CacheMemory_Team24\CacheMemory\CacheMemory\obj\Debug\CacheMemory.csproj.CoreCompileInputs.cache
 C:\Users\Knol\Desktop\PROJEKAT\RES_CacheMemory_Team24\CacheMemory\CacheMemory\obj\Debug\CacheMemory.exe
 C:\Users\Knol\Desktop\PROJEKAT\RES_CacheMemory_Team24\CacheMemory\CacheMemory\obj\Debug\CacheMemory.pdb
+D:\SEMESTAR 2\VEZBE\RES\RES_CacheMemory__Team24\RES_CacheMemory_Team24\CacheMemory\CacheMemory\bin\Debug\Database1.mdf
+D:\SEMESTAR 2\VEZBE\RES\RES_CacheMemory__Team24\RES_CacheMemory_Team24\CacheMemory\CacheMemory\bin\Debug\Database1_log.ldf
+D:\SEMESTAR 2\VEZBE\RES\RES_CacheMemory__Team24\RES_CacheMemory_Team24\CacheMemory\CacheMemory\bin\Debug\CacheMemory.exe.config
+D:\SEMESTAR 2\VEZBE\RES\RES_CacheMemory__Team24\RES_CacheMemory_Team24\CacheMemory\CacheMemory\bin\Debug\CacheMemory.exe
+D:\SEMESTAR 2\VEZBE\RES\RES_CacheMemory__Team24\RES_CacheMemory_Team24\CacheMemory\CacheMemory\bin\Debug\CacheMemory.pdb
+D:\SEMESTAR 2\VEZBE\RES\RES_CacheMemory__Team24\RES_CacheMemory_Team24\CacheMemory\CacheMemory\obj\Debug\CacheMemory.csprojAssemblyReference.cache
+D:\SEMESTAR 2\VEZBE\RES\RES_CacheMemory__Team24\RES_CacheMemory_Team24\CacheMemory\CacheMemory\obj\Debug\CacheMemory.csproj.CoreCompileInputs.cache
+D:\SEMESTAR 2\VEZBE\RES\RES_CacheMemory__Team24\RES_CacheMemory_Team24\CacheMemory\CacheMemory\obj\Debug\CacheMemory.exe
+D:\SEMESTAR 2\VEZBE\RES\RES_CacheMemory__Team24\RES_CacheMemory_Team24\CacheMemory\CacheMemory\obj\Debug\CacheMemory.pdb

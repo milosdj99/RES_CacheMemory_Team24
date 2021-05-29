@@ -17,6 +17,8 @@ namespace CacheMemory.DumpingBuffer
 
         public CollectionDescription(int id, Data data)
         {
+            DumpingPropertyCollection = new List<Data>();
+
             Id = id; //koristice se rbr slanja da bi bio unikatan
             string code = data.Code;
 

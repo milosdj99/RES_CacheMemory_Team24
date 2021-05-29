@@ -1,0 +1,4216 @@
+
+ Log entry:23:56:47 , petak, 28. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:00:02:00 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:00:09:33 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:00:13:35 , subota, 29. maj 2021.
+Rucno uneti podaci za DumpingBuffer
+--------------------------------------------------------
+
+ Log entry:00:17:06 , subota, 29. maj 2021.
+Rucno uneti podaci za DumpingBuffer
+--------------------------------------------------------
+
+ Log entry:00:18:44 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:00:19:59 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:00:20:01 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:00:21:52 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:00:21:54 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:00:21:56 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:00:24:09 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:00:24:11 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:00:27:32 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:00:27:34 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:00:29:36 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:00:29:38 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:00:29:40 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:00:29:40 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:00:29:42 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:00:34:20 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:00:34:22 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:00:34:22 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:34:24 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:00:34:36 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:00:34:37 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:00:34:45 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:00:34:59 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:00:37:29 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:00:37:31 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:00:37:33 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:00:37:36 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:00:37:36 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:37:38 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:00:37:38 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:37:40 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:00:37:40 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:37:56 , subota, 29. maj 2021.
+Rucno uneti podaci za DumpingBuffer
+--------------------------------------------------------
+
+ Log entry:00:37:56 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:38:25 , subota, 29. maj 2021.
+Rucno uneti podaci za DumpingBuffer
+--------------------------------------------------------
+
+ Log entry:00:38:25 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:00:43:14 , subota, 29. maj 2021.
+Rucno uneti podaci za DumpingBuffer
+--------------------------------------------------------
+
+ Log entry:00:47:01 , subota, 29. maj 2021.
+Rucno uneti podaci za DumpingBuffer
+--------------------------------------------------------
+
+ Log entry:00:48:16 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:00:48:18 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:00:48:18 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:48:20 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:00:48:22 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:00:48:22 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:48:24 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:00:48:26 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 9
+--------------------------------------------------------
+
+ Log entry:00:48:26 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:48:28 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 10
+--------------------------------------------------------
+
+ Log entry:00:48:28 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:48:30 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 11
+--------------------------------------------------------
+
+ Log entry:00:48:30 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:00:50:15 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:00:50:17 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:00:50:19 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:00:50:19 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:00:50:21 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:00:50:23 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:00:50:25 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:00:50:25 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:50:27 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:00:50:29 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 9
+--------------------------------------------------------
+
+ Log entry:00:50:31 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 10
+--------------------------------------------------------
+
+ Log entry:00:50:33 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 11
+--------------------------------------------------------
+
+ Log entry:00:51:38 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:00:51:40 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:00:51:42 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:00:51:42 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:51:44 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:00:51:44 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:51:46 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:00:51:46 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:51:48 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:00:51:50 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:00:51:50 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:51:52 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 9
+--------------------------------------------------------
+
+ Log entry:00:51:54 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 10
+--------------------------------------------------------
+
+ Log entry:00:51:54 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:51:56 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 11
+--------------------------------------------------------
+
+ Log entry:00:51:56 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:51:58 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 12
+--------------------------------------------------------
+
+ Log entry:00:51:58 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:52:00 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 13
+--------------------------------------------------------
+
+ Log entry:00:52:00 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:52:02 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 14
+--------------------------------------------------------
+
+ Log entry:00:52:02 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:00:52:04 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 15
+--------------------------------------------------------
+
+ Log entry:00:52:06 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 16
+--------------------------------------------------------
+
+ Log entry:00:52:08 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 17
+--------------------------------------------------------
+
+ Log entry:00:52:10 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 18
+--------------------------------------------------------
+
+ Log entry:00:52:10 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:52:12 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 19
+--------------------------------------------------------
+
+ Log entry:00:52:12 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:52:14 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 20
+--------------------------------------------------------
+
+ Log entry:00:52:16 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 21
+--------------------------------------------------------
+
+ Log entry:00:52:16 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:53:12 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:00:53:14 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:00:53:16 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:00:53:18 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:00:53:20 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:00:53:20 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:00:53:22 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:00:53:24 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:00:53:26 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 9
+--------------------------------------------------------
+
+ Log entry:00:53:28 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 10
+--------------------------------------------------------
+
+ Log entry:00:53:28 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:00:53:30 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 11
+--------------------------------------------------------
+
+ Log entry:00:53:30 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:15:03 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:01:15:05 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:01:15:07 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:01:15:07 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:15:09 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:01:15:11 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:01:15:11 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:15:13 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:01:15:15 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:01:15:17 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 9
+--------------------------------------------------------
+
+ Log entry:01:15:19 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 10
+--------------------------------------------------------
+
+ Log entry:01:15:19 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:15:21 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 11
+--------------------------------------------------------
+
+ Log entry:01:15:21 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:15:21 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:15:21 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:20:06 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:01:20:08 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:01:20:10 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:01:20:12 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:01:20:12 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:20:14 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:01:20:16 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:01:20:16 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:20:18 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:01:20:20 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 9
+--------------------------------------------------------
+
+ Log entry:01:20:22 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 10
+--------------------------------------------------------
+
+ Log entry:01:20:24 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 11
+--------------------------------------------------------
+
+ Log entry:01:20:24 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:20:24 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:20:24 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:20:24 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:20:24 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:20:24 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:20:26 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 12
+--------------------------------------------------------
+
+ Log entry:01:20:28 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 13
+--------------------------------------------------------
+
+ Log entry:01:20:28 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:20:30 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 14
+--------------------------------------------------------
+
+ Log entry:01:20:32 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 15
+--------------------------------------------------------
+
+ Log entry:01:20:34 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 16
+--------------------------------------------------------
+
+ Log entry:01:20:34 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:20:36 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 17
+--------------------------------------------------------
+
+ Log entry:01:20:36 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:20:38 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 18
+--------------------------------------------------------
+
+ Log entry:01:20:38 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:20:40 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 19
+--------------------------------------------------------
+
+ Log entry:01:20:42 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 20
+--------------------------------------------------------
+
+ Log entry:01:20:42 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:20:44 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 21
+--------------------------------------------------------
+
+ Log entry:01:20:44 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:22:25 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:01:22:27 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:01:22:29 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:01:22:32 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:01:22:32 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:22:34 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:01:22:34 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:22:36 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:01:22:36 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:22:38 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:01:22:38 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:22:40 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 9
+--------------------------------------------------------
+
+ Log entry:01:22:40 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:22:42 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 10
+--------------------------------------------------------
+
+ Log entry:01:22:42 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:22:44 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 11
+--------------------------------------------------------
+
+ Log entry:01:22:44 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:22:44 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:22:44 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:22:44 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:22:46 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 12
+--------------------------------------------------------
+
+ Log entry:01:22:48 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 13
+--------------------------------------------------------
+
+ Log entry:01:22:50 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 14
+--------------------------------------------------------
+
+ Log entry:01:22:50 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:22:52 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 15
+--------------------------------------------------------
+
+ Log entry:01:22:54 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 16
+--------------------------------------------------------
+
+ Log entry:01:22:56 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 17
+--------------------------------------------------------
+
+ Log entry:01:22:58 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 18
+--------------------------------------------------------
+
+ Log entry:01:23:00 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 19
+--------------------------------------------------------
+
+ Log entry:01:23:00 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:23:02 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 20
+--------------------------------------------------------
+
+ Log entry:01:23:02 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:23:04 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 21
+--------------------------------------------------------
+
+ Log entry:01:23:04 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:23:04 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:23:04 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:30:18 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:01:30:20 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:01:30:22 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:01:30:22 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:30:24 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:01:30:24 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:30:26 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:01:30:26 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:30:28 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:01:30:30 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:01:30:32 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 9
+--------------------------------------------------------
+
+ Log entry:01:30:34 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 10
+--------------------------------------------------------
+
+ Log entry:01:30:34 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:30:36 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 11
+--------------------------------------------------------
+
+ Log entry:01:30:36 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:30:36 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:30:36 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:30:36 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:30:38 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 12
+--------------------------------------------------------
+
+ Log entry:01:30:38 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:30:40 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 13
+--------------------------------------------------------
+
+ Log entry:01:30:42 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 14
+--------------------------------------------------------
+
+ Log entry:01:30:44 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 15
+--------------------------------------------------------
+
+ Log entry:01:30:46 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 16
+--------------------------------------------------------
+
+ Log entry:01:30:48 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 17
+--------------------------------------------------------
+
+ Log entry:01:30:50 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 18
+--------------------------------------------------------
+
+ Log entry:01:30:50 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:30:52 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 19
+--------------------------------------------------------
+
+ Log entry:01:30:54 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 20
+--------------------------------------------------------
+
+ Log entry:01:30:54 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:30:56 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 21
+--------------------------------------------------------
+
+ Log entry:01:30:56 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:30:56 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:30:56 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:30:56 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:30:56 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:30:58 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 22
+--------------------------------------------------------
+
+ Log entry:01:31:00 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 23
+--------------------------------------------------------
+
+ Log entry:01:31:02 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 24
+--------------------------------------------------------
+
+ Log entry:01:31:04 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 25
+--------------------------------------------------------
+
+ Log entry:01:31:06 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 26
+--------------------------------------------------------
+
+ Log entry:01:31:06 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:31:08 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 27
+--------------------------------------------------------
+
+ Log entry:01:31:10 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 28
+--------------------------------------------------------
+
+ Log entry:01:31:12 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 29
+--------------------------------------------------------
+
+ Log entry:01:31:12 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:31:15 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 30
+--------------------------------------------------------
+
+ Log entry:01:31:17 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 31
+--------------------------------------------------------
+
+ Log entry:01:31:17 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:31:17 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:31:17 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:31:17 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:31:17 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:31:17 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:38:18 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:01:38:20 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:01:38:22 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:01:38:24 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:01:38:24 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:38:26 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:01:38:28 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:01:38:30 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:01:38:30 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:38:32 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 9
+--------------------------------------------------------
+
+ Log entry:01:38:32 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:38:35 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 10
+--------------------------------------------------------
+
+ Log entry:01:38:35 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:38:37 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 11
+--------------------------------------------------------
+
+ Log entry:01:38:37 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:38:37 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:38:37 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:38:37 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:38:37 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:40:31 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:01:40:33 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:01:40:35 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:01:40:35 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:40:37 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:01:40:39 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:01:40:39 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:40:41 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:01:40:43 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:01:40:45 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 9
+--------------------------------------------------------
+
+ Log entry:01:40:47 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 10
+--------------------------------------------------------
+
+ Log entry:01:40:49 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 11
+--------------------------------------------------------
+
+ Log entry:01:40:49 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:40:49 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:40:49 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:40:49 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:40:51 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 12
+--------------------------------------------------------
+
+ Log entry:01:40:51 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:40:53 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 13
+--------------------------------------------------------
+
+ Log entry:01:40:55 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 14
+--------------------------------------------------------
+
+ Log entry:01:40:57 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 15
+--------------------------------------------------------
+
+ Log entry:01:40:59 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 16
+--------------------------------------------------------
+
+ Log entry:01:41:01 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 17
+--------------------------------------------------------
+
+ Log entry:01:41:03 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 18
+--------------------------------------------------------
+
+ Log entry:01:41:05 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 19
+--------------------------------------------------------
+
+ Log entry:01:41:05 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:41:07 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 20
+--------------------------------------------------------
+
+ Log entry:01:41:07 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:41:09 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 21
+--------------------------------------------------------
+
+ Log entry:01:41:10 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:41:10 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:41:10 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:41:10 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:46:07 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:01:46:09 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:01:46:11 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:01:46:13 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:01:46:15 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:01:46:15 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:46:17 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:01:46:17 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:46:19 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:01:46:21 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 9
+--------------------------------------------------------
+
+ Log entry:01:46:23 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 10
+--------------------------------------------------------
+
+ Log entry:01:46:25 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 11
+--------------------------------------------------------
+
+ Log entry:01:46:25 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:46:25 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:46:25 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:46:25 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:46:25 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:46:25 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:46:27 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 12
+--------------------------------------------------------
+
+ Log entry:01:46:29 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 13
+--------------------------------------------------------
+
+ Log entry:01:46:31 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 14
+--------------------------------------------------------
+
+ Log entry:01:46:31 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:46:33 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 15
+--------------------------------------------------------
+
+ Log entry:01:46:33 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:46:35 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 16
+--------------------------------------------------------
+
+ Log entry:01:46:35 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:46:37 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 17
+--------------------------------------------------------
+
+ Log entry:01:46:39 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 18
+--------------------------------------------------------
+
+ Log entry:01:46:41 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 19
+--------------------------------------------------------
+
+ Log entry:01:46:43 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 20
+--------------------------------------------------------
+
+ Log entry:01:46:46 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 21
+--------------------------------------------------------
+
+ Log entry:01:46:46 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:46:46 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:46:46 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:46:46 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:46:46 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:46:46 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:46:46 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:46:48 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 22
+--------------------------------------------------------
+
+ Log entry:01:46:50 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 23
+--------------------------------------------------------
+
+ Log entry:01:46:52 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 24
+--------------------------------------------------------
+
+ Log entry:01:46:54 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 25
+--------------------------------------------------------
+
+ Log entry:01:46:56 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 26
+--------------------------------------------------------
+
+ Log entry:01:46:58 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 27
+--------------------------------------------------------
+
+ Log entry:01:47:00 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 28
+--------------------------------------------------------
+
+ Log entry:01:47:02 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 29
+--------------------------------------------------------
+
+ Log entry:01:47:02 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:47:04 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 30
+--------------------------------------------------------
+
+ Log entry:01:47:06 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 31
+--------------------------------------------------------
+
+ Log entry:01:47:06 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:47:06 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:06 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:06 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:06 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:06 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:06 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:47:08 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 32
+--------------------------------------------------------
+
+ Log entry:01:47:10 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 33
+--------------------------------------------------------
+
+ Log entry:01:47:12 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 34
+--------------------------------------------------------
+
+ Log entry:01:47:14 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 35
+--------------------------------------------------------
+
+ Log entry:01:47:16 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 36
+--------------------------------------------------------
+
+ Log entry:01:47:18 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 37
+--------------------------------------------------------
+
+ Log entry:01:47:20 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 38
+--------------------------------------------------------
+
+ Log entry:01:47:22 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 39
+--------------------------------------------------------
+
+ Log entry:01:47:24 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 40
+--------------------------------------------------------
+
+ Log entry:01:47:26 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 41
+--------------------------------------------------------
+
+ Log entry:01:47:26 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:47:26 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:47:26 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:26 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:26 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:26 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:26 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:26 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:26 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:26 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:47:26 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:47:26 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:47:28 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 42
+--------------------------------------------------------
+
+ Log entry:01:47:30 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 43
+--------------------------------------------------------
+
+ Log entry:01:47:30 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:47:32 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 44
+--------------------------------------------------------
+
+ Log entry:01:47:34 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 45
+--------------------------------------------------------
+
+ Log entry:01:47:34 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:47:36 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 46
+--------------------------------------------------------
+
+ Log entry:01:47:38 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 47
+--------------------------------------------------------
+
+ Log entry:01:47:40 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 48
+--------------------------------------------------------
+
+ Log entry:01:47:42 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 49
+--------------------------------------------------------
+
+ Log entry:01:47:44 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 50
+--------------------------------------------------------
+
+ Log entry:01:47:44 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:47:46 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 51
+--------------------------------------------------------
+
+ Log entry:01:47:46 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:47:46 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:47:46 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:47:46 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:47:46 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:46 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:46 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:46 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:46 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:46 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:46 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:47:46 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:47:46 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:47:46 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:47:48 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 52
+--------------------------------------------------------
+
+ Log entry:01:47:50 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 53
+--------------------------------------------------------
+
+ Log entry:01:47:52 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 54
+--------------------------------------------------------
+
+ Log entry:01:47:54 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 55
+--------------------------------------------------------
+
+ Log entry:01:47:56 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 56
+--------------------------------------------------------
+
+ Log entry:01:47:56 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:47:58 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 57
+--------------------------------------------------------
+
+ Log entry:01:48:00 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 58
+--------------------------------------------------------
+
+ Log entry:01:48:00 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:48:02 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 59
+--------------------------------------------------------
+
+ Log entry:01:48:02 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:48:04 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 60
+--------------------------------------------------------
+
+ Log entry:01:48:06 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 61
+--------------------------------------------------------
+
+ Log entry:01:48:06 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:48:06 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:48:06 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:48:06 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:48:06 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:48:06 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:48:06 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:48:06 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:48:06 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:48:06 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:48:06 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:48:06 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:48:06 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:48:08 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 62
+--------------------------------------------------------
+
+ Log entry:01:49:56 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:01:49:58 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:01:49:58 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:50:00 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:01:50:02 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:01:50:04 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:01:50:06 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:01:50:08 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:01:50:10 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 9
+--------------------------------------------------------
+
+ Log entry:01:50:10 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:50:12 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 10
+--------------------------------------------------------
+
+ Log entry:01:50:12 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:50:14 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 11
+--------------------------------------------------------
+
+ Log entry:01:50:14 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:50:14 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:50:14 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:50:16 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 12
+--------------------------------------------------------
+
+ Log entry:01:50:18 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 13
+--------------------------------------------------------
+
+ Log entry:01:50:20 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 14
+--------------------------------------------------------
+
+ Log entry:01:50:22 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 15
+--------------------------------------------------------
+
+ Log entry:01:50:22 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:50:24 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 16
+--------------------------------------------------------
+
+ Log entry:01:50:24 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:50:26 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 17
+--------------------------------------------------------
+
+ Log entry:01:50:28 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 18
+--------------------------------------------------------
+
+ Log entry:01:50:30 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 19
+--------------------------------------------------------
+
+ Log entry:01:50:32 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 20
+--------------------------------------------------------
+
+ Log entry:01:50:34 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 21
+--------------------------------------------------------
+
+ Log entry:01:50:34 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:50:34 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:50:34 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:50:34 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:50:34 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:50:34 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:50:34 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:50:34 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:50:36 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 22
+--------------------------------------------------------
+
+ Log entry:01:50:38 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 23
+--------------------------------------------------------
+
+ Log entry:01:50:40 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 24
+--------------------------------------------------------
+
+ Log entry:01:50:42 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 25
+--------------------------------------------------------
+
+ Log entry:01:50:44 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 26
+--------------------------------------------------------
+
+ Log entry:01:50:46 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 27
+--------------------------------------------------------
+
+ Log entry:01:50:46 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:50:48 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 28
+--------------------------------------------------------
+
+ Log entry:01:50:50 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 29
+--------------------------------------------------------
+
+ Log entry:01:50:50 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:50:52 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 30
+--------------------------------------------------------
+
+ Log entry:01:50:54 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 31
+--------------------------------------------------------
+
+ Log entry:01:50:54 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:50:54 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:50:54 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:50:55 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:50:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:50:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:50:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:50:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:50:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:50:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:50:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:50:55 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:50:57 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 32
+--------------------------------------------------------
+
+ Log entry:01:50:59 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 33
+--------------------------------------------------------
+
+ Log entry:01:51:01 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 34
+--------------------------------------------------------
+
+ Log entry:01:51:03 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 35
+--------------------------------------------------------
+
+ Log entry:01:51:05 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 36
+--------------------------------------------------------
+
+ Log entry:01:51:07 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 37
+--------------------------------------------------------
+
+ Log entry:01:51:07 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:51:09 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 38
+--------------------------------------------------------
+
+ Log entry:01:51:11 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 39
+--------------------------------------------------------
+
+ Log entry:01:51:13 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 40
+--------------------------------------------------------
+
+ Log entry:01:51:13 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:51:15 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 41
+--------------------------------------------------------
+
+ Log entry:01:51:15 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:51:15 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:51:15 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:51:15 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:51:15 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:15 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:15 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:15 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:15 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:15 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:51:15 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:51:15 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:51:17 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 42
+--------------------------------------------------------
+
+ Log entry:01:51:19 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 43
+--------------------------------------------------------
+
+ Log entry:01:51:21 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 44
+--------------------------------------------------------
+
+ Log entry:01:51:23 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 45
+--------------------------------------------------------
+
+ Log entry:01:51:25 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 46
+--------------------------------------------------------
+
+ Log entry:01:51:25 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:51:27 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 47
+--------------------------------------------------------
+
+ Log entry:01:51:27 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:51:29 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 48
+--------------------------------------------------------
+
+ Log entry:01:51:31 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 49
+--------------------------------------------------------
+
+ Log entry:01:51:31 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:51:33 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 50
+--------------------------------------------------------
+
+ Log entry:01:51:35 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 51
+--------------------------------------------------------
+
+ Log entry:01:51:35 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:51:35 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:51:35 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:51:35 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:51:35 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:51:35 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:35 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:35 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:35 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:35 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:35 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:35 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:51:35 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:51:37 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 52
+--------------------------------------------------------
+
+ Log entry:01:51:39 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 53
+--------------------------------------------------------
+
+ Log entry:01:51:41 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 54
+--------------------------------------------------------
+
+ Log entry:01:51:43 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 55
+--------------------------------------------------------
+
+ Log entry:01:51:45 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 56
+--------------------------------------------------------
+
+ Log entry:01:51:47 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 57
+--------------------------------------------------------
+
+ Log entry:01:51:47 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:51:49 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 58
+--------------------------------------------------------
+
+ Log entry:01:51:51 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 59
+--------------------------------------------------------
+
+ Log entry:01:51:53 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 60
+--------------------------------------------------------
+
+ Log entry:01:51:53 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 61
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:51:55 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:51:57 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 62
+--------------------------------------------------------
+
+ Log entry:01:51:59 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 63
+--------------------------------------------------------
+
+ Log entry:01:52:01 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 64
+--------------------------------------------------------
+
+ Log entry:01:52:01 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:52:03 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 65
+--------------------------------------------------------
+
+ Log entry:01:52:05 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 66
+--------------------------------------------------------
+
+ Log entry:01:52:05 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:52:07 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 67
+--------------------------------------------------------
+
+ Log entry:01:52:07 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:52:09 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 68
+--------------------------------------------------------
+
+ Log entry:01:52:11 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 69
+--------------------------------------------------------
+
+ Log entry:01:52:13 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 70
+--------------------------------------------------------
+
+ Log entry:01:52:13 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 71
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:15 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:52:17 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 72
+--------------------------------------------------------
+
+ Log entry:01:52:19 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 73
+--------------------------------------------------------
+
+ Log entry:01:52:19 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:52:21 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 74
+--------------------------------------------------------
+
+ Log entry:01:52:23 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 75
+--------------------------------------------------------
+
+ Log entry:01:52:25 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 76
+--------------------------------------------------------
+
+ Log entry:01:52:25 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:52:27 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 77
+--------------------------------------------------------
+
+ Log entry:01:52:29 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 78
+--------------------------------------------------------
+
+ Log entry:01:52:31 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 79
+--------------------------------------------------------
+
+ Log entry:01:52:31 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:52:33 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 80
+--------------------------------------------------------
+
+ Log entry:01:52:35 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 81
+--------------------------------------------------------
+
+ Log entry:01:52:35 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:52:35 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:52:35 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:52:35 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:52:35 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:52:35 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:52:35 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:52:35 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:35 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:35 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:35 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:35 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:35 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:52:35 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:52:37 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 82
+--------------------------------------------------------
+
+ Log entry:01:52:39 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 83
+--------------------------------------------------------
+
+ Log entry:01:52:41 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 84
+--------------------------------------------------------
+
+ Log entry:01:52:43 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 85
+--------------------------------------------------------
+
+ Log entry:01:52:45 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 86
+--------------------------------------------------------
+
+ Log entry:01:52:47 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 87
+--------------------------------------------------------
+
+ Log entry:01:52:49 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 88
+--------------------------------------------------------
+
+ Log entry:01:52:51 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 89
+--------------------------------------------------------
+
+ Log entry:01:52:53 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 90
+--------------------------------------------------------
+
+ Log entry:01:52:53 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 91
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:52:55 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:52:57 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 92
+--------------------------------------------------------
+
+ Log entry:01:52:59 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 93
+--------------------------------------------------------
+
+ Log entry:01:53:01 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 94
+--------------------------------------------------------
+
+ Log entry:01:53:03 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 95
+--------------------------------------------------------
+
+ Log entry:01:53:05 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 96
+--------------------------------------------------------
+
+ Log entry:01:53:07 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 97
+--------------------------------------------------------
+
+ Log entry:01:53:09 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 98
+--------------------------------------------------------
+
+ Log entry:01:53:11 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 99
+--------------------------------------------------------
+
+ Log entry:01:53:11 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:53:13 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 100
+--------------------------------------------------------
+
+ Log entry:01:53:13 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:54:53 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:01:54:55 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:01:54:55 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:54:57 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:01:54:59 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:01:54:59 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:55:01 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:01:55:03 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:01:55:05 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:01:55:07 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 9
+--------------------------------------------------------
+
+ Log entry:01:55:07 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:55:09 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 10
+--------------------------------------------------------
+
+ Log entry:01:55:11 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 11
+--------------------------------------------------------
+
+ Log entry:01:55:11 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:55:11 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:55:11 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:55:11 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:55:13 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 12
+--------------------------------------------------------
+
+ Log entry:01:55:15 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 13
+--------------------------------------------------------
+
+ Log entry:01:55:17 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 14
+--------------------------------------------------------
+
+ Log entry:01:55:19 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 15
+--------------------------------------------------------
+
+ Log entry:01:55:19 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:55:21 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 16
+--------------------------------------------------------
+
+ Log entry:01:55:23 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 17
+--------------------------------------------------------
+
+ Log entry:01:55:23 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:55:25 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 18
+--------------------------------------------------------
+
+ Log entry:01:55:25 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:55:27 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 19
+--------------------------------------------------------
+
+ Log entry:01:55:29 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 20
+--------------------------------------------------------
+
+ Log entry:01:55:29 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:55:31 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 21
+--------------------------------------------------------
+
+ Log entry:01:55:31 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:55:31 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:55:31 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:55:31 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:55:31 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:55:31 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:55:33 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 22
+--------------------------------------------------------
+
+ Log entry:01:55:35 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 23
+--------------------------------------------------------
+
+ Log entry:01:55:37 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 24
+--------------------------------------------------------
+
+ Log entry:01:55:39 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 25
+--------------------------------------------------------
+
+ Log entry:01:55:41 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 26
+--------------------------------------------------------
+
+ Log entry:01:55:41 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:55:43 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 27
+--------------------------------------------------------
+
+ Log entry:01:55:45 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 28
+--------------------------------------------------------
+
+ Log entry:01:55:45 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:55:47 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 29
+--------------------------------------------------------
+
+ Log entry:01:55:47 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:55:49 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 30
+--------------------------------------------------------
+
+ Log entry:01:55:49 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:55:51 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 31
+--------------------------------------------------------
+
+ Log entry:01:55:51 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:55:51 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:55:51 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:55:51 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:55:51 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:55:51 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:55:51 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:55:51 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:55:51 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:55:51 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:55:51 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:55:51 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:55:53 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 32
+--------------------------------------------------------
+
+ Log entry:01:55:55 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 33
+--------------------------------------------------------
+
+ Log entry:01:55:57 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 34
+--------------------------------------------------------
+
+ Log entry:01:55:59 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 35
+--------------------------------------------------------
+
+ Log entry:01:56:01 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 36
+--------------------------------------------------------
+
+ Log entry:01:56:01 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:56:03 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 37
+--------------------------------------------------------
+
+ Log entry:01:56:05 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 38
+--------------------------------------------------------
+
+ Log entry:01:56:07 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 39
+--------------------------------------------------------
+
+ Log entry:01:56:07 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:56:09 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 40
+--------------------------------------------------------
+
+ Log entry:01:56:09 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:56:11 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 41
+--------------------------------------------------------
+
+ Log entry:01:56:11 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:56:11 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:56:11 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:56:11 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:56:11 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:56:11 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:56:11 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:56:11 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:56:11 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:56:11 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:56:11 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:56:11 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:56:13 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 42
+--------------------------------------------------------
+
+ Log entry:01:56:15 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 43
+--------------------------------------------------------
+
+ Log entry:01:56:17 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 44
+--------------------------------------------------------
+
+ Log entry:01:56:17 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:56:19 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 45
+--------------------------------------------------------
+
+ Log entry:01:56:21 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 46
+--------------------------------------------------------
+
+ Log entry:01:56:23 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 47
+--------------------------------------------------------
+
+ Log entry:01:56:25 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 48
+--------------------------------------------------------
+
+ Log entry:01:56:25 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:56:27 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 49
+--------------------------------------------------------
+
+ Log entry:01:56:27 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:56:29 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 50
+--------------------------------------------------------
+
+ Log entry:01:56:31 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 51
+--------------------------------------------------------
+
+ Log entry:01:56:31 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:56:31 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:56:31 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:56:31 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:56:31 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:56:31 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:56:31 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:56:31 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:56:31 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:56:31 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:56:31 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:56:31 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:56:31 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:01:56:33 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 52
+--------------------------------------------------------
+
+ Log entry:01:56:35 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 53
+--------------------------------------------------------
+
+ Log entry:01:56:37 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 54
+--------------------------------------------------------
+
+ Log entry:01:56:37 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:56:39 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 55
+--------------------------------------------------------
+
+ Log entry:01:56:39 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:56:41 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 56
+--------------------------------------------------------
+
+ Log entry:01:56:41 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:56:43 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 57
+--------------------------------------------------------
+
+ Log entry:01:56:45 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 58
+--------------------------------------------------------
+
+ Log entry:01:56:48 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 59
+--------------------------------------------------------
+
+ Log entry:01:56:50 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 60
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 61
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:01:56:52 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:02:06:25 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:02:06:27 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:02:06:29 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:02:06:31 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:02:06:31 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:02:06:33 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:02:06:35 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:02:06:37 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:02:06:39 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 9
+--------------------------------------------------------
+
+ Log entry:02:06:41 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 10
+--------------------------------------------------------
+
+ Log entry:02:06:41 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:06:43 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 11
+--------------------------------------------------------
+
+ Log entry:02:06:43 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:06:43 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:06:43 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:06:43 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:06:43 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:02:06:45 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 12
+--------------------------------------------------------
+
+ Log entry:02:06:47 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 13
+--------------------------------------------------------
+
+ Log entry:02:06:49 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 14
+--------------------------------------------------------
+
+ Log entry:02:06:51 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 15
+--------------------------------------------------------
+
+ Log entry:02:06:53 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 16
+--------------------------------------------------------
+
+ Log entry:02:06:55 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 17
+--------------------------------------------------------
+
+ Log entry:02:06:57 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 18
+--------------------------------------------------------
+
+ Log entry:02:06:59 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 19
+--------------------------------------------------------
+
+ Log entry:02:06:59 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:07:01 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 20
+--------------------------------------------------------
+
+ Log entry:02:07:03 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 21
+--------------------------------------------------------
+
+ Log entry:02:07:03 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:07:03 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:07:03 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:07:03 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:07:03 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:07:03 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:07:03 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:02:07:05 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 22
+--------------------------------------------------------
+
+ Log entry:02:07:07 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 23
+--------------------------------------------------------
+
+ Log entry:02:07:09 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 24
+--------------------------------------------------------
+
+ Log entry:02:07:11 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 25
+--------------------------------------------------------
+
+ Log entry:02:07:13 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 26
+--------------------------------------------------------
+
+ Log entry:02:07:13 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:07:15 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 27
+--------------------------------------------------------
+
+ Log entry:02:07:15 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:07:17 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 28
+--------------------------------------------------------
+
+ Log entry:02:07:19 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 29
+--------------------------------------------------------
+
+ Log entry:02:07:22 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 30
+--------------------------------------------------------
+
+ Log entry:02:07:22 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:07:48 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:02:07:50 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------
+
+ Log entry:02:07:52 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 4
+--------------------------------------------------------
+
+ Log entry:02:07:54 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:02:07:54 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:07:56 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:02:07:58 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:02:07:58 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:08:00 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:02:08:00 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:02:17:14 , subota, 29. maj 2021.
+Rucno uneti podaci za DumpingBuffer
+--------------------------------------------------------
+
+ Log entry:02:17:46 , subota, 29. maj 2021.
+Rucno uneti podaci za DumpingBuffer
+--------------------------------------------------------
+
+ Log entry:02:24:58 , subota, 29. maj 2021.
+Rucno uneti podaci za DumpingBuffer
+--------------------------------------------------------
+
+ Log entry:02:25:13 , subota, 29. maj 2021.
+Rucno uneti podaci za DumpingBuffer
+--------------------------------------------------------
+
+ Log entry:02:25:13 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:02:25:24 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 5
+--------------------------------------------------------
+
+ Log entry:02:25:26 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 6
+--------------------------------------------------------
+
+ Log entry:02:25:28 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 7
+--------------------------------------------------------
+
+ Log entry:02:25:30 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 8
+--------------------------------------------------------
+
+ Log entry:02:25:32 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 9
+--------------------------------------------------------
+
+ Log entry:02:25:34 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 10
+--------------------------------------------------------
+
+ Log entry:02:25:34 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:25:36 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 11
+--------------------------------------------------------
+
+ Log entry:02:25:36 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:25:36 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:25:36 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:02:25:38 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 12
+--------------------------------------------------------
+
+ Log entry:02:25:40 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 13
+--------------------------------------------------------
+
+ Log entry:02:25:42 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 14
+--------------------------------------------------------
+
+ Log entry:02:25:44 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 15
+--------------------------------------------------------
+
+ Log entry:02:25:46 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 16
+--------------------------------------------------------
+
+ Log entry:02:25:46 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:25:48 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 17
+--------------------------------------------------------
+
+ Log entry:02:25:50 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 18
+--------------------------------------------------------
+
+ Log entry:02:25:50 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:25:52 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 19
+--------------------------------------------------------
+
+ Log entry:02:25:52 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:25:54 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 20
+--------------------------------------------------------
+
+ Log entry:02:25:56 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 21
+--------------------------------------------------------
+
+ Log entry:02:25:56 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:25:56 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:25:56 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:25:56 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:25:56 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:25:56 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:25:56 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:25:56 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:02:25:58 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 22
+--------------------------------------------------------
+
+ Log entry:02:26:00 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 23
+--------------------------------------------------------
+
+ Log entry:02:26:02 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 24
+--------------------------------------------------------
+
+ Log entry:02:26:04 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 25
+--------------------------------------------------------
+
+ Log entry:02:26:06 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 26
+--------------------------------------------------------
+
+ Log entry:02:26:08 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 27
+--------------------------------------------------------
+
+ Log entry:02:26:08 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:26:10 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 28
+--------------------------------------------------------
+
+ Log entry:02:26:12 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 29
+--------------------------------------------------------
+
+ Log entry:02:26:12 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:26:14 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 30
+--------------------------------------------------------
+
+ Log entry:02:26:14 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:26:16 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 31
+--------------------------------------------------------
+
+ Log entry:02:26:16 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:26:16 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:26:16 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:26:16 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:26:16 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:26:16 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:26:16 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:26:16 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:26:16 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:02:26:18 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 32
+--------------------------------------------------------
+
+ Log entry:02:26:20 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 33
+--------------------------------------------------------
+
+ Log entry:02:26:22 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 34
+--------------------------------------------------------
+
+ Log entry:02:26:24 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 35
+--------------------------------------------------------
+
+ Log entry:02:26:26 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 36
+--------------------------------------------------------
+
+ Log entry:02:26:28 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 37
+--------------------------------------------------------
+
+ Log entry:02:26:28 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:26:30 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 38
+--------------------------------------------------------
+
+ Log entry:02:26:32 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 39
+--------------------------------------------------------
+
+ Log entry:02:26:32 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:26:34 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 40
+--------------------------------------------------------
+
+ Log entry:02:26:34 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:26:36 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 41
+--------------------------------------------------------
+
+ Log entry:02:26:36 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:26:36 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:26:36 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:26:36 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:26:36 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:26:36 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:26:36 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:26:36 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:26:36 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:26:36 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:26:36 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:26:36 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:02:26:38 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 42
+--------------------------------------------------------
+
+ Log entry:02:26:40 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 43
+--------------------------------------------------------
+
+ Log entry:02:26:42 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 44
+--------------------------------------------------------
+
+ Log entry:02:26:44 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 45
+--------------------------------------------------------
+
+ Log entry:02:26:44 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:26:46 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 46
+--------------------------------------------------------
+
+ Log entry:02:26:48 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 47
+--------------------------------------------------------
+
+ Log entry:02:26:48 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:26:50 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 48
+--------------------------------------------------------
+
+ Log entry:02:26:50 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:26:52 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 49
+--------------------------------------------------------
+
+ Log entry:02:26:54 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 50
+--------------------------------------------------------
+
+ Log entry:02:26:54 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 51
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:26:56 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:02:26:58 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 52
+--------------------------------------------------------
+
+ Log entry:02:27:00 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 53
+--------------------------------------------------------
+
+ Log entry:02:27:02 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 54
+--------------------------------------------------------
+
+ Log entry:02:27:04 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 55
+--------------------------------------------------------
+
+ Log entry:02:27:06 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 56
+--------------------------------------------------------
+
+ Log entry:02:27:08 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 57
+--------------------------------------------------------
+
+ Log entry:02:27:11 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 58
+--------------------------------------------------------
+
+ Log entry:02:27:13 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 59
+--------------------------------------------------------
+
+ Log entry:02:27:13 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:27:15 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 60
+--------------------------------------------------------
+
+ Log entry:02:27:15 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 61
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:27:17 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:02:27:19 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 62
+--------------------------------------------------------
+
+ Log entry:02:27:21 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 63
+--------------------------------------------------------
+
+ Log entry:02:27:23 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 64
+--------------------------------------------------------
+
+ Log entry:02:27:25 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 65
+--------------------------------------------------------
+
+ Log entry:02:27:27 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 66
+--------------------------------------------------------
+
+ Log entry:02:27:27 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:27:29 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 67
+--------------------------------------------------------
+
+ Log entry:02:27:31 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 68
+--------------------------------------------------------
+
+ Log entry:02:27:31 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:27:33 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 69
+--------------------------------------------------------
+
+ Log entry:02:27:33 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:27:35 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 70
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 71
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podaci uneti u ListCD
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak u bazi izmenjen
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak dodat u bazu
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podatak/ci izbrisan/i iz baze
+--------------------------------------------------------
+
+ Log entry:02:27:37 , subota, 29. maj 2021.
+Podaci uneti u DeltaCD, listCD osloboljen
+--------------------------------------------------------
+
+ Log entry:02:27:39 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 72
+--------------------------------------------------------
+
+ Log entry:02:27:41 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 73
+--------------------------------------------------------
+
+ Log entry:02:27:43 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 74
+--------------------------------------------------------
+
+ Log entry:02:27:45 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 75
+--------------------------------------------------------
+
+ Log entry:02:33:01 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:02:33:03 , subota, 29. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------

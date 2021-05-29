@@ -8,12 +8,14 @@ namespace CacheMemory.Historical
 {
     class Description
     {
+        public int Tip { get; set; }
         public int Id { get; set; }
         public int DataSet { get; set; }
         public List<HistoricalProperty> HistoricalProperties { get; set; }
 
-        public Description(int id, int dataSet, List<HistoricalProperty> historicalProperties)
+        public Description(int tip, int id, int dataSet, List<HistoricalProperty> historicalProperties)
         {
+            Tip = tip;
             Id = id;
             DataSet = dataSet;
             HistoricalProperties = historicalProperties;
