@@ -1,4 +1,5 @@
-﻿using CacheMemory.Historical;
+﻿using CacheMemory.Common;
+using CacheMemory.Historical;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CacheMemory.Reader
 {
-    class Reader
+    class Reader : IReader
     {
         public Historical.Historicall Historical { get; set; }
 

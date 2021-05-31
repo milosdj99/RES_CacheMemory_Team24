@@ -59,6 +59,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Common\IDumpingBuffer.cs" />
+    <Compile Include="Common\IHistoricall.cs" />
+    <Compile Include="Common\ILogger.cs" />
+    <Compile Include="Common\IReader.cs" />
+    <Compile Include="Common\IWriter.cs" />
     <Compile Include="DumpingBuffer\CollectionDescription.cs" />
     <Compile Include="DumpingBuffer\DeltaCD.cs" />
     <Compile Include="DumpingBuffer\DumpingBuffer.cs" />

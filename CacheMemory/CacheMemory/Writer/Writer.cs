@@ -7,10 +7,11 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using CacheMemory.Historical;
+using CacheMemory.Common;
 
 namespace CacheMemory.Writer
 {
-    class Write
+    class Write : IWriter
     {
         Random r = new Random();
 
@@ -72,10 +73,7 @@ namespace CacheMemory.Writer
             Console.WriteLine("CODE_ANALOG, CODE_DIGITAL, CODE_LIMITSET, CODE_CUSTOM, CODE_SINGLENODE,");
             Console.WriteLine("CODE_MULTIPLENODE, CODE_CONSUMER, CODE_SOURCE, CODE_MOTION, CODE_SENSOR");
             code = Console.ReadLine();
-            //Console.WriteLine("Unesite datum i vreme (npr. 10/22/2017 02:30:52)");
-            //ts = DateTime.Parse(Console.ReadLine());
-
-            //
+            
             Console.WriteLine("Unesite datum i vreme (npr. 10/22/2017 02:30:52)");
             
             Console.WriteLine("Dan:");
@@ -86,7 +84,7 @@ namespace CacheMemory.Writer
             int godina = Int32.Parse(Console.ReadLine());
 
             ts = new DateTime(godina, mesec, dan);
-            //
+            
 
             Value v = new Value(ts, geoID, p);
             Data d = new Data(code, v);

@@ -4214,3 +4214,11 @@ Poslati podaci DumpingBufferu. BrSlanja: 2
  Log entry:02:33:03 , subota, 29. maj 2021.
 Poslati podaci DumpingBufferu. BrSlanja: 3
 --------------------------------------------------------
+
+ Log entry:23:32:12 , ponedeljak, 31. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 2
+--------------------------------------------------------
+
+ Log entry:23:32:14 , ponedeljak, 31. maj 2021.
+Poslati podaci DumpingBufferu. BrSlanja: 3
+--------------------------------------------------------

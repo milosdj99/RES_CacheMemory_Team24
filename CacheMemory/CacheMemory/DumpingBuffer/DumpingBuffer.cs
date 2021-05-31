@@ -3,11 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CacheMemory.Common;
 using CacheMemory.Logger;
 
 namespace CacheMemory.DumpingBuffer
 {
-    class DumpingBuff
+    class DumpingBuff : IDumpingBuffer
     {
         public List<CollectionDescription> listCD { get; set; }
 

@@ -7,10 +7,11 @@ using System.Threading.Tasks;
 using System.Configuration;
 using System.Data.SqlClient;
 using CacheMemory.Logger;
+using CacheMemory.Common;
 
 namespace CacheMemory.Historical
 {
-    class Historicall
+    class Historicall : IHistoricall
     {
         
         public static string con_string = @"Data Source=(LocalDB)\MSSQLLocalDB; " +

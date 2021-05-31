@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using CacheMemory.Common;
 
 namespace CacheMemory.Logger
 {
-    class Log 
+    class Log : ILogger
     {
         private string CurrentDirectory { get; set; }
         private string FileName { get; set; }
