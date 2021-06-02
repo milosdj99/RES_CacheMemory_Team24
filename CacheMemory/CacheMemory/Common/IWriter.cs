@@ -8,8 +8,8 @@ using System.Threading.Tasks;
 
 namespace CacheMemory.Common
 {
-    interface IWriter
-    {
+    public interface IWriter
+    {       
 
         DateTime genTimeStamp();
 

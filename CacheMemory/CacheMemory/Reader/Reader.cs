@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace CacheMemory.Reader
 {
-    class Reader : IReader
+    public class Reader : IReader
     {
-        public Historical.Historicall Historical { get; set; }
+        public Historicall Historical { get; set; }
 
         public Reader(Historical.Historicall historical)
         {

@@ -1,15 +1,22 @@
 ﻿using CacheMemory.DumpingBuffer;
 using CacheMemory.Historical;
+using CacheMemory.Logger;
 using System;
 using System.Collections.Generic;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace CacheMemory.Common
 {
-    interface IHistoricall
+    public interface IHistoricall
     {
+        SqlConnection Con { get; set; }
+
+        List<Description> LD { get; set; }
+
+        Log Logger { get; set; }
 
         List<CollectionDescription> CheckData(List<CollectionDescription> list);
 

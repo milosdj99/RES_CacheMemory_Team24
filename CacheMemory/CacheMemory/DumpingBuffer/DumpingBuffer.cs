@@ -8,7 +8,7 @@ using CacheMemory.Logger;
 
 namespace CacheMemory.DumpingBuffer
 {
-    class DumpingBuff : IDumpingBuffer
+    public class DumpingBuff : IDumpingBuffer
     {
         public List<CollectionDescription> listCD { get; set; }
 

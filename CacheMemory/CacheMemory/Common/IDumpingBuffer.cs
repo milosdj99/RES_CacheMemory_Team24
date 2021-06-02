@@ -8,8 +8,11 @@ using System.Threading.Tasks;
 
 namespace CacheMemory.Common
 {
-    interface IDumpingBuffer
+    public interface IDumpingBuffer
     {
+
+        List<CollectionDescription> listCD { get; set; }
+
         bool ProveriCode(CollectionDescription cd);
 
         bool ProveriDataSet(CollectionDescription cd);

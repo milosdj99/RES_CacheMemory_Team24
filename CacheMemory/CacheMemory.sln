@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheMemory", "CacheMemory\CacheMemory.csproj", "{DD77BAB8-2509-4087-A111-4A553B5CED99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheMemoryTest", "CacheMemoryTest\CacheMemoryTest.csproj", "{26F159DD-8C53-4E98-ACFA-597FE7E25CA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DD77BAB8-2509-4087-A111-4A553B5CED99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD77BAB8-2509-4087-A111-4A553B5CED99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD77BAB8-2509-4087-A111-4A553B5CED99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F159DD-8C53-4E98-ACFA-597FE7E25CA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F159DD-8C53-4E98-ACFA-597FE7E25CA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F159DD-8C53-4E98-ACFA-597FE7E25CA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F159DD-8C53-4E98-ACFA-597FE7E25CA6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

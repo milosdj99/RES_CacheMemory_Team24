@@ -11,7 +11,7 @@ using CacheMemory.Common;
 
 namespace CacheMemory.Historical
 {
-    class Historicall : IHistoricall
+    public class Historicall : IHistoricall
     {
         
         public static string con_string = @"Data Source=(LocalDB)\MSSQLLocalDB; " +
@@ -23,7 +23,7 @@ namespace CacheMemory.Historical
 
         public List<Description> LD { get; set; }
 
-        Log  Logger { get; set; }
+        public Log  Logger { get; set; }
 
         
         public Historicall(Log log)

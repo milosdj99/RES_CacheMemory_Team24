@@ -8,11 +8,11 @@ using CacheMemory.Common;
 
 namespace CacheMemory.Logger
 {
-    class Log : ILogger
+    public class Log : ILogger
     {
-        private string CurrentDirectory { get; set; }
-        private string FileName { get; set; }
-        private string FilePath { get; set; }
+        public string CurrentDirectory { get; set; }
+        public string FileName { get; set; }
+        public string FilePath { get; set; }
 
         public Log()
         {

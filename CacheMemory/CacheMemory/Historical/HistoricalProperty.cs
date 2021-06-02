@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CacheMemory.Common;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CacheMemory.Historical
 {
-    class HistoricalProperty
+    public class HistoricalProperty : IHistoricalProperty
     {
         public string Code { get; set; }
         public HistoricalValue Value { get; set; }

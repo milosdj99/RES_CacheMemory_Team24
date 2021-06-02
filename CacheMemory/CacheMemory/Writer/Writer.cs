@@ -9,9 +9,10 @@ using System.Threading.Tasks;
 using CacheMemory.Historical;
 using CacheMemory.Common;
 
+
 namespace CacheMemory.Writer
 {
-    class Write : IWriter
+    public class Write : IWriter
     {
         Random r = new Random();
 

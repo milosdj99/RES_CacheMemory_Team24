@@ -1,4 +1,5 @@
-﻿using CacheMemory.DumpingBuffer;
+﻿using CacheMemory.Common;
+using CacheMemory.DumpingBuffer;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace CacheMemory.DumpingBuffer
 {
-    class CollectionDescription
+    public class CollectionDescription : ICollectionDescription
     {
         public int Id { get; set; }
 

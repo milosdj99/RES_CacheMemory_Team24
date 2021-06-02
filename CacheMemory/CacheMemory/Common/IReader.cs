@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CacheMemory.Historical;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,8 +7,9 @@ using System.Threading.Tasks;
 
 namespace CacheMemory.Common
 {
-    interface IReader
+    public interface IReader
     {
+        Historicall Historical { get; set; }
 
         void DataSetSearch(int dataset);
 
