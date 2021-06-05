@@ -10,9 +10,9 @@ namespace CacheMemory.Historical
     public class HistoricalProperty : IHistoricalProperty
     {
         public string Code { get; set; }
-        public HistoricalValue Value { get; set; }
+        public IHistoricalValue Value { get; set; }
 
-        public HistoricalProperty(string code, HistoricalValue value)
+        public HistoricalProperty(string code, IHistoricalValue value)
         {
             Code = code;
             Value = value;

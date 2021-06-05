@@ -10,6 +10,6 @@ namespace CacheMemory.Common
     public interface IHistoricalProperty
     {
          string Code { get; set; }
-         HistoricalValue Value { get; set; }
+         IHistoricalValue Value { get; set; }
     }
 }

@@ -16,7 +16,7 @@ namespace CacheMemory.Common
 
         List<Description> LD { get; set; }
 
-        Log Logger { get; set; }
+        ILogger Logger { get; set; }
 
         List<CollectionDescription> CheckData(List<CollectionDescription> list);
 

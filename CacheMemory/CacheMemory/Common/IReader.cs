@@ -9,7 +9,7 @@ namespace CacheMemory.Common
 {
     public interface IReader
     {
-        Historicall Historical { get; set; }
+        IHistoricall Historical { get; set; }
 
         void DataSetSearch(int dataset);
 

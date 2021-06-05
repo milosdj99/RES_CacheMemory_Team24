@@ -8,6 +8,7 @@ using System.Configuration;
 using System.Data.SqlClient;
 using CacheMemory.Logger;
 using CacheMemory.Common;
+using System.Diagnostics.CodeAnalysis;
 
 namespace CacheMemory.Historical
 {
@@ -23,10 +24,10 @@ namespace CacheMemory.Historical
 
         public List<Description> LD { get; set; }
 
-        public Log  Logger { get; set; }
+        public ILogger  Logger { get; set; }
 
         
-        public Historicall(Log log)
+        public Historicall(ILogger log)
         {
             LD = new List<Description>();
             Con = new SqlConnection(con_string);
@@ -151,7 +152,7 @@ namespace CacheMemory.Historical
         }
 
 
-
+        [ExcludeFromCodeCoverage]
         public void Connect()
         {
             try
@@ -167,6 +168,7 @@ namespace CacheMemory.Historical
 
         }
 
+        [ExcludeFromCodeCoverage]
         public void Disconnect()
         {
             try
@@ -194,10 +196,11 @@ namespace CacheMemory.Historical
         }
 
 
+        [ExcludeFromCodeCoverage]
         public void WriteToBase()
         {
 
-            foreach (Description d in LD)                           //ucitavanje podataka iz LD-a kako bi smo lakse rukovali podacima
+            foreach (Description d in LD)                           
             {
                 if (d.HistoricalProperties.Count != 0)
                 {
@@ -217,7 +220,8 @@ namespace CacheMemory.Historical
             }
         }
 
-       
+
+        [ExcludeFromCodeCoverage]
         public void Add(Description d) {
 
             
@@ -265,8 +269,8 @@ namespace CacheMemory.Historical
 
             
         }
-        
 
+        [ExcludeFromCodeCoverage]
         public void Update(Description d)
         {
 
@@ -340,6 +344,8 @@ namespace CacheMemory.Historical
             
         }
 
+
+        [ExcludeFromCodeCoverage]
         public void Remove(Description d)
         {
 
@@ -364,15 +370,19 @@ namespace CacheMemory.Historical
         }
 
 
-
+        [ExcludeFromCodeCoverage]
         public List<HistoricalProperty> DataSetSearch(int dataset)
         {
+            List<HistoricalProperty> returnList = new List<HistoricalProperty>();
+
             if (dataset < 1 && dataset > 5)
             {
                 Console.WriteLine("Neuspesno citanje iz baze, trazeni Dataset ne postoji!");
+
+                return returnList;
             }
 
-            List<HistoricalProperty> returnList = new List<HistoricalProperty>();
+            
 
 
             string q = "select * from DataSet" + dataset;
@@ -405,7 +415,7 @@ namespace CacheMemory.Historical
         }
 
 
-
+        [ExcludeFromCodeCoverage]
         public List<HistoricalProperty> CodeSearch(string code)
         {
 
@@ -445,6 +455,7 @@ namespace CacheMemory.Historical
         }
 
 
+        [ExcludeFromCodeCoverage]
         public List<HistoricalProperty> DateSearch(DateTime min, DateTime max)
         {
 
