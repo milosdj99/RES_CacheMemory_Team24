@@ -11,7 +11,6 @@ namespace CacheMemory.Common
         string CurrentDirectory { get; set; }
         string FileName { get; set; }
         string FilePath { get; set; }
-
         void LogMsg(string msg);
 
     }

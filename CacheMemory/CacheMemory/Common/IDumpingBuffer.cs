@@ -17,9 +17,9 @@ namespace CacheMemory.Common
 
         bool ProveriDataSet(CollectionDescription cd);
 
-        int UpisiListCD(CollectionDescription cd, Log log);
+        int UpisiListCD(CollectionDescription cd, ILogger log);
 
-        DeltaCD PakujDCD(int brtr, List<CollectionDescription> listCD, Log log);
+        DeltaCD PakujDCD(int brtr, List<CollectionDescription> listCD, ILogger log);
 
     }
 }

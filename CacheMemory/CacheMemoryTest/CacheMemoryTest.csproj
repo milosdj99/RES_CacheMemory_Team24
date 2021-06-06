@@ -60,12 +60,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CollectionDescriptionTest.cs" />
+    <Compile Include="DataTest.cs" />
+    <Compile Include="DeltaCDTest.cs" />
     <Compile Include="DescriptionTest.cs" />
+    <Compile Include="DumpingBufferTest.cs" />
     <Compile Include="HistoricallTest.cs" />
     <Compile Include="HistoricalPropertyTest.cs" />
     <Compile Include="HistoricalValueTest.cs" />
+    <Compile Include="LoggerTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReaderTest.cs" />
+    <Compile Include="ValueTest.cs" />
+    <Compile Include="WriterTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CacheMemory\CacheMemory.csproj">

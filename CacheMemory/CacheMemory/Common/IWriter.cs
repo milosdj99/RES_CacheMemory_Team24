@@ -19,9 +19,9 @@ namespace CacheMemory.Common
 
         int genGeoID();
 
-        Data WriteToDumpingBuffer(int brSlanja, Log log);
+        Data WriteToDumpingBuffer(int brSlanja, ILogger log);
 
-        Data ManualWriteToDumpingBuffer(Log log);
+        Data ManualWriteToDumpingBuffer(ILogger log);
 
 
     }

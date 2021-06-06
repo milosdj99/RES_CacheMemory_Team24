@@ -15,10 +15,6 @@ namespace CacheMemory.DumpingBuffer
         public DumpingBuff() {
             listCD = new List<CollectionDescription>();
         }
-        public DumpingBuff(CollectionDescription cd)
-        {
-            listCD.Add(cd);
-        }
 
         public bool ProveriCode(CollectionDescription cd)
         {
@@ -54,7 +50,7 @@ namespace CacheMemory.DumpingBuffer
             return false;
         }
 
-        public int UpisiListCD(CollectionDescription cd, Log log)
+        public int UpisiListCD(CollectionDescription cd, ILogger log)
         {
             bool p = ProveriCode(cd);
             bool k;
@@ -79,7 +75,7 @@ namespace CacheMemory.DumpingBuffer
             
         }
 
-        public DeltaCD PakujDCD(int brtr, List<CollectionDescription> listCD, Log log)
+        public DeltaCD PakujDCD(int brtr, List<CollectionDescription> listCD, ILogger log)
         {
             DeltaCD dcd = new DeltaCD();
 

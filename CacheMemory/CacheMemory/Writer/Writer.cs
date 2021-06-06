@@ -8,6 +8,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using CacheMemory.Historical;
 using CacheMemory.Common;
+using System.Diagnostics.CodeAnalysis;
 
 
 namespace CacheMemory.Writer
@@ -40,7 +41,7 @@ namespace CacheMemory.Writer
             return r.Next(1, 11);
         }
 
-        public  Data WriteToDumpingBuffer(int brSlanja, Log log)
+        public  Data WriteToDumpingBuffer(int brSlanja, ILogger log)
         {
                 brSlanja++;
 
@@ -57,8 +58,9 @@ namespace CacheMemory.Writer
             return d;
               
         }
-        
-        public  Data ManualWriteToDumpingBuffer(Log log)
+
+        [ExcludeFromCodeCoverage]
+        public  Data ManualWriteToDumpingBuffer(ILogger log)
         {
             DateTime ts ;
             int p ;
@@ -75,7 +77,7 @@ namespace CacheMemory.Writer
             Console.WriteLine("CODE_MULTIPLENODE, CODE_CONSUMER, CODE_SOURCE, CODE_MOTION, CODE_SENSOR");
             code = Console.ReadLine();
             
-            Console.WriteLine("Unesite datum i vreme (npr. 10/22/2017 02:30:52)");
+            Console.WriteLine("Unesite datum:");
             
             Console.WriteLine("Dan:");
             int dan = Int32.Parse(Console.ReadLine());

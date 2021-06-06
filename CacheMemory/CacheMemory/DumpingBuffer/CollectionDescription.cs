@@ -15,6 +15,7 @@ namespace CacheMemory.DumpingBuffer
         public int DataSet { get; set; }
 
         public List<Data> DumpingPropertyCollection { get; set; }
+        public CollectionDescription() { }
 
         public CollectionDescription(int id, Data data)
         {
