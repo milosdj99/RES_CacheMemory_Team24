@@ -20,7 +20,7 @@ namespace CacheMemory.Writer
         public Write() { }
 
         public DateTime genTimeStamp()
-        {           
+        {
             return DateTime.Now;
         }
         public int genPotrosnja()
@@ -32,7 +32,7 @@ namespace CacheMemory.Writer
         {
             string[] kodovi = { "CODE_ANALOG", "CODE_DIGITAL", "CODE_LIMITSET", "CODE_CUSTOM", "CODE_SINGLENODE",
                                "CODE_MULTIPLENODE", "CODE_CONSUMER", "CODE_SOURCE", "CODE_MOTION", "CODE_SENSOR" };
-         
+
             return kodovi[r.Next(10)];
         }
 
@@ -41,31 +41,31 @@ namespace CacheMemory.Writer
             return r.Next(1, 11);
         }
 
-        public  Data WriteToDumpingBuffer(int brSlanja, ILogger log)
+        public Data WriteToDumpingBuffer(int brSlanja, ILogger log)
         {
-                brSlanja++;
+            brSlanja++;
 
-                DateTime ts = genTimeStamp();
-                int p = genPotrosnja();
-                int geoID = genGeoID();
-                string code = genCode();
+            DateTime ts = genTimeStamp();
+            int p = genPotrosnja();
+            int geoID = genGeoID();
+            string code = genCode();
 
-                Value v = new Value(ts, geoID, p);
-                Data d = new Data(code, v);
+            Value v = new Value(ts, geoID, p);
+            Data d = new Data(code, v);
 
-                log.LogMsg("Poslati podaci DumpingBufferu. BrSlanja: "+ brSlanja);
+            log.LogMsg("Poslati podaci DumpingBufferu. BrSlanja: " + brSlanja);
 
             return d;
-              
+
         }
 
         [ExcludeFromCodeCoverage]
-        public  Data ManualWriteToDumpingBuffer(ILogger log)
+        public Data ManualWriteToDumpingBuffer(ILogger log)
         {
-            DateTime ts ;
-            int p ;
-            int geoID ;
-            string code ;
+            DateTime ts;
+            int p;
+            int geoID;
+            string code;
 
             Console.WriteLine("Unesite sledece podatke: ");
             Console.WriteLine("Unesite potrosnju: ");
@@ -76,19 +76,43 @@ namespace CacheMemory.Writer
             Console.WriteLine("CODE_ANALOG, CODE_DIGITAL, CODE_LIMITSET, CODE_CUSTOM, CODE_SINGLENODE,");
             Console.WriteLine("CODE_MULTIPLENODE, CODE_CONSUMER, CODE_SOURCE, CODE_MOTION, CODE_SENSOR");
             code = Console.ReadLine();
-            
+
+
+            bool danUspesno, mesecUspesno, godinaUspesno;
+            int dan, mesec, godina;
+
             Console.WriteLine("Unesite datum:");
-            
+
             Console.WriteLine("Dan:");
-            int dan = Int32.Parse(Console.ReadLine());
+            danUspesno = Int32.TryParse(Console.ReadLine(), out dan);
             Console.WriteLine("Mesec:");
-            int mesec = Int32.Parse(Console.ReadLine());
+            mesecUspesno = Int32.TryParse(Console.ReadLine(), out mesec);
             Console.WriteLine("Godina:");
-            int godina = Int32.Parse(Console.ReadLine());
+            godinaUspesno = Int32.TryParse(Console.ReadLine(), out godina);
+
+            if (danUspesno == false || mesecUspesno == false || godinaUspesno == false)
+            {
+                throw new Exception();
+            }
+
+            if (dan <1 || dan > 31)
+            {
+                throw new Exception();
+            }
+
+            if (mesec < 1 || mesec > 12)
+            {
+                throw new Exception();
+            }
+
+            if (godina < 1950 || mesec > 2021)
+            {
+                throw new Exception();
+            }
+
 
             ts = new DateTime(godina, mesec, dan);
             
-
             Value v = new Value(ts, geoID, p);
             Data d = new Data(code, v);
 

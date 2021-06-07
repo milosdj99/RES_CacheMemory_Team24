@@ -75,7 +75,18 @@ namespace CacheMemory
                             break;
                         }
 
-                        Data manualData = w.ManualWriteToDumpingBuffer(log);
+                        Data manualData = new Data();
+
+                        try
+                        {
+                            manualData = w.ManualWriteToDumpingBuffer(log);
+                        }
+                        catch(Exception)
+                        {
+                            Console.WriteLine("Niste uneli validan datum");
+                            continue;
+                        }
+
                         CollectionDescription manualCD = new CollectionDescription(brSlanja, manualData);
 
                         int z = db.UpisiListCD(manualCD, log);
